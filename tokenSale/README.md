@@ -94,6 +94,8 @@ git clone https://github.com/Rushikesh0125/SolidityAssignment.git
 
 cd tokenSale
 
+# Running this in submodule[assignment] might install dependecies for all submodules
+# Still make sure to run this for each submodule[assignment]
 make install
 
 forge build
