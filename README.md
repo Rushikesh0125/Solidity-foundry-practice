@@ -9,7 +9,7 @@
 ## 📝 Assignments
 
 - [MultiSig Wallet Assignment](./multiSig)
-- [TokenSale Assignment](./tokenSale/README.md)
-- [TokenSwap Assignment](./tokenSwap/README.md)
-- [Voting Assignment](./voting/README.md)
+- [TokenSale Assignment](./tokenSale)
+- [TokenSwap Assignment](./tokenSwap)
+- [Voting Assignment](./voting)
 
