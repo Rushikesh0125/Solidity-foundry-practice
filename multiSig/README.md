@@ -54,7 +54,9 @@
 ### Steps to Initialize the project
 
 ```
-git clone repoUrl
+git clone https://github.com/Rushikesh0125/SolidityAssignment.git
+
+cd multiSig
 
 make install
 
