@@ -6,6 +6,10 @@
     <br> 
 </p>
 
+<p align="center"> Each assignment contains README documentations in respective folders
+    <br> 
+</p>
+
 ## 📝 Assignments
 
 - [MultiSig Wallet Assignment](./multiSig)
